@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<name_lists>
+    <name_list name="first_word_station">
+        <word>willow</word>
+        <word>meadow</word>
+        <word>pacific</word>
+        <word>park</word>
+        <word>maya</word>
+    </name_list>
+    <name_list name="last_word_station">
+        <word>street</word>
+        <word>road</word>
+        <word>lane</word>
+        <word>way</word>
+        <word>drive</word>
+        <word>plaza</word>
+    </name_list>
+</name_lists>
